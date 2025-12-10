@@ -106,8 +106,6 @@ Permite intercambiar dinámicamente los algoritmos de movimiento sin afectar el 
 ### Singleton
 No se usa porque el juego no requiere una única instancia global estricta para ninguna clase crítica. Forzar este patrón limitaría la escalabilidad y reutilización.
 
-### Observer
-No se utiliza porque no existe un sistema de eventos desacoplados entre múltiples observadores. Las colisiones y cambios de estado son gestionados directamente por el ciclo principal del juego.
 
 ### Factory Method
 No se aplica de forma explícita, ya que los enemigos y niveles se crean de forma directa. Su implementación sería útil si los niveles se generaran dinámicamente.
@@ -119,4 +117,5 @@ No es necesario debido a que los niveles y enemigos no tienen estructuras de con
 No se utiliza ya que no se requiere agregar funcionalidades dinámicas sobre enemigos o jugador sin modificar su estructura base.
 
 ---
+
 
