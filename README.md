@@ -1,4 +1,11 @@
-# Juego de Esquiva en Pygame – Patrones de Diseño
+# Proyecto final – Patrones de Diseño
+
+
+## Autores
+
+- Dominic Robayo – 20241020072  
+- Julián Valencia – 20241020048
+
 
 ## Descripción General del Juego
 
@@ -113,16 +120,3 @@ No se utiliza ya que no se requiere agregar funcionalidades dinámicas sobre ene
 
 ---
 
-## Tecnologías Utilizadas
-
-- Python 3
-- Pygame
-- Programación orientada a objetos
-- Patrones de diseño de software
-
----
-
-## Autores
-
-- Dominic Robayo – 20241020072  
-- Julián Valencia – 20241020048
